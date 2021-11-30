@@ -1,2 +1,2 @@
-# uca
-Criado para armazenamento dos trabalhos da Faculdade.
+# UCA
+Repositório criado para armazenamento dos trabalhos da Faculdade.
